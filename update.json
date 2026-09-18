@@ -1,0 +1,14 @@
+{
+  "product": "USBPrinterInfo",
+  "version": "1.0.0.1",
+  "build": 1,
+  "notes": "首个正式发布：修复1284设备ID未剥离长度头导致信息显示为空的问题；无设备与失败时给出下一步指引；新增自动更新检查与一键升级。",
+  "asset": "USBPrinterInfo-1.0.0.1-win-x64.zip",
+  "sha256": "151b0c816f6d3a8e1e39c02e7ec4a6c1057d6a265d3e909febc7a6a72d19c4e9",
+  "mirrors": [
+    "https://cdn.jsdelivr.net/gh/xmuhl-tools/USBPrinterInfo-updates@v1.0.0.1/USBPrinterInfo-1.0.0.1-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl-tools/USBPrinterInfo-updates/releases/download/v1.0.0.1/USBPrinterInfo-1.0.0.1-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl-tools/USBPrinterInfo-updates/releases/download/v1.0.0.1/USBPrinterInfo-1.0.0.1-win-x64.zip"
+  ],
+  "size": 2244623
+}
